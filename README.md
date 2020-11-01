@@ -1,0 +1,1 @@
+This is skeleton code sample for FLusk & SQLAlchemy DB first approach
